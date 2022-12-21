@@ -33,20 +33,20 @@ textarea{
     display: inline-block;
     height: 40px;
     width: 40px;
-    background-color:black;
+    background-color:yellow;
     margin-right: 0 10px 10px 0;
     text-align: center;
     line-height: 40px;
     border-radius: 15px;
-    color:yellow;
+    color:black;
     transition: all 0.5s ease;
     float: left;
     margin: 5px;
     /*padding: 4px;*/
 }
-.men .social-link a:hover{
-    color: black;
-    background-color: navy;
+.col .social-link a:hover{
+    color: yellow;
+    background-color: black;
 }
 .row .col {
     float:left;
