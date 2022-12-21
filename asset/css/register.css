@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    }
+    html,body{
+        width: 100%;
+        height: 100%;
+    }
+    section{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 80vh;
+    }
+    form{
+        background-color: lightgray;
+        padding: 30px;
+        border: outset 5px red;
+        text-align: center;
+        border-radius:20px 20px 20px 20px;
+    }
+    button{
+        color: white;
+        background-color: red;
+        margin-top:10px; 
+        cursor: pointer;
+        border-radius:20px 20px 20px 20px;
+        width:250px;
+        padding:7px;
+        border:none;
+    }
+    button:hover{
+        color:black;
+    }
+    h5{
+        text-align:center;
+    }
+    img{
+        width:100px;
+    }
+    h1{
+        text-align:center;
+        color:black;
+        background-color:yellow;
+        padding:10px;
+    }
+    h2{
+        color:red;
+    }
+    body{
+        background-color:yellow;
+    }
+    .SS{
+        border:2px outset lightgrey;
+        width:200px;
+        border-radius:5px 5px 5px 5px;
+        padding:5px;
+    }
+    #HH{
+        margin-right:40px;
+    }
+    #KK{
+        text-align:center;
+        color:black;
+        padding: 3px;
+    }
+    #LL{
+        border:2px outset lightgray;
+        border-radius:5px 5px 5px 5px;
+        width:200px;
+        padding:5px;
+    }

@@ -1,0 +1,33 @@
+img{
+    height: 500px;
+    width: 100%;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    background-color:yellow;
+    color: black;
+}
+.back{
+    text-align: center;
+}
+h1,h2{
+    color:black;
+    font-family: cursive;
+}
+p{
+    font-size: 50px;
+}
+.rep{
+    text-align: center;
+    padding-top: 30px;
+}
+button{
+    color: yellow;
+    background-color: black;
+    border-color: yellow;
+    padding: 10px;
+}
+button:hover{
+    color: white;
+}

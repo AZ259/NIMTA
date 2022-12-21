@@ -1,0 +1,47 @@
+*{
+    margin:0;
+}
+section{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:40vh;
+}
+form{
+    background-color: lightgray;
+    border:2px outset red;
+    padding:10px;
+    border-radius: 20px 20px 20px 20px;
+    text-align:center;
+    width:255px;
+}
+html,body{
+    background-color:yellow;
+    height: 100%;
+    width: 100%;
+}
+h1{
+    background-color:yellow;
+    text-align:center;
+}
+.TT{
+    border:2px outset lightgray;
+    border-radius: 7px 7px 7px 7px;
+    padding:5px;
+    width:160px;
+}
+button{
+    background-color:red;
+    border:none;
+    width:150px;
+    border-radius:10px 10px 10px 10px;
+    padding:4px;
+    color:white;
+}
+button:hover{
+    color:black;
+    cursor: pointer;
+}
+p{
+    color:red;
+}

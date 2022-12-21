@@ -1,0 +1,137 @@
+body {
+    background-color:black;
+    /*text-align: center;*/
+    color:yellow;
+
+}
+img {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+form{
+    
+    /*background-image: url(mmm.jfif);*/
+    color: navy;
+    background-color:yellow;
+}
+/*.she  input{
+    color: yellow;
+    float:left;
+    margin: 6px;
+    background-color:black;
+    width: 80px;
+    padding:5px;
+    border-radius:7px 7px 7px 7px;
+}*/
+.she 
+textarea{
+    padding-left: 5px;
+    height: 99px;
+}
+.col .social-link a{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color:black;
+    margin-right: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 15px;
+    color:yellow;
+    transition: all 0.5s ease;
+    float: left;
+    margin: 5px;
+    /*padding: 4px;*/
+}
+.men .social-link a:hover{
+    color: black;
+    background-color: navy;
+}
+.row .col {
+    float:left;
+    color:navy;
+    /*padding-right: 100%;*/
+}
+.men .social-link {
+    float: left;
+} 
+.men {
+    float: right;
+    padding-right: 5px;
+    margin-bottom: 100px;
+}
+.col {
+    padding-left: 10px;
+    text-align:left;
+    padding-right: 20px;
+    /*float: right;*/
+}
+.she {
+    text-align: center;
+    margin-right: 20px;
+}
+.me{
+    padding-left:55px;
+}
+.row .she input {
+    float: right;
+    padding: 5px; 
+    height: 34px;
+    margin-left: 50px;  
+    /*border: 4px solid black; */ 
+    background-color: black;   
+    width: 300px;  
+    padding-left: 20px;
+    border-radius:15px;
+
+}
+.she .emi input {
+    background-color: white;
+    border-radius:15px;
+}
+/*.col {
+    text-align:left;
+}*/
+.she h2 {
+    /*padding-right: 20px;
+    padding-left: 10px;*/
+    float: right;
+}
+.col {
+    float: right;
+}
+.she textarea {
+    float: right;
+    border-radius:15px;
+}
+.she button {
+    float: right;
+    padding: 5px; 
+    height: 34px;
+    margin-left: 50px;  
+    /*border: 4px solid black; */ 
+    background-color: black;   
+    width: 300px;  
+    padding-left: 20px;
+    color: yellow;
+    border-radius:15px;
+}
+.she .dave button:hover {
+    background-color:grey;
+    cursor: pointer;
+    color: black;
+    border-color:grey;
+}
+.mad{
+    text-align: center;
+}
+button{
+    padding: 10px;
+    color: black;
+    background-color: yellow;
+    margin: 10px;
+}
+button:hover{
+    color: white;
+}
