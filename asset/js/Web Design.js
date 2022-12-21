@@ -2,7 +2,7 @@
  let i = 0;
  let images = [
     "asset/media/images/Web Design/IMG_E4522.jpg",
-    "asset/media/images/Web Design/IMG_E4526.jpg",
+    "asset/media/images/Web Design/IMG_E4526.jpg"
    // "asset/media/images/Web Design/IMG_E4523.jpg",
    // "asset/media/images/Web Design/IMG-20221213-WA0002.jpg",
    // "asset/media/images/Web Design/IMG-20221213-WA0014.jpg",
